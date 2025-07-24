@@ -1,6 +1,5 @@
-# Example function [NATIVESCRIPT](https://github.com/NativeScript)
+# NS Helper
 
-### List example
-- [Copy Paste File](https://github.com/dyazincahya/collections-function-for-nativescript/blob/master/copy-paste-file.md)
-- [Download File](https://github.com/dyazincahya/collections-function-for-nativescript/blob/master/download-file.md)
-- [Admob BannerAd](https://github.com/dyazincahya/example-function-nativescript/tree/master/admob)
+## List example
+- [Admob BannerAd](https://github.com/dyazincahya/ns-helper/tree/master/admob)
+- [Api Request](https://github.com/dyazincahya/ns-helper/tree/master/api)
