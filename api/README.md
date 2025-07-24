@@ -25,6 +25,7 @@ const cacheOptions = {
   cacheKey: 'my_cache', // cache key
   maxAgeInDays: 1, // Age of cache
   forceFetch: false, // Set true if want skip caching
+  noToken: false // set true if you want to request without token
 };
 
 ApiService.get(PATH_URL, cacheOptions)
