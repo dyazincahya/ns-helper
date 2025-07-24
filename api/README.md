@@ -13,7 +13,7 @@ This service can helping you to request data to server
 Add this on `app.js` or `main.ts`
 ``` javascript
 global.baseUrl = "YOUR_BASE_URL";
-global.tokenKey = "YOUR_TOKEN_API";
+global.tokenKey = btoa("YOUR_TOKEN_API");
 ```
 
 ### Example
