@@ -5,7 +5,7 @@ This service can helping you to request data to server
 - [ApplicationSettings](https://docs.nativescript.org/core/application-settings)
 - [@klippa/nativescript-http](https://www.npmjs.com/package/@klippa/nativescript-http)
 - [@nativescript/secure-storage](https://www.npmjs.com/package/@nativescript/secure-storage)
-- [atob](https://developer.mozilla.org/en-US/docs/Web/API/Window/atob)
+- [`btoa` and `atob`](https://developer.mozilla.org/en-US/docs/Web/API/Window/atob)
 
 ## Using
 
