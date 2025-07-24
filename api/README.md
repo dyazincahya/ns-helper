@@ -10,6 +10,7 @@ This service can helping you to request data to server
 ## Using
 
 ### Initialization
+Add this on `app.js` or `main.ts`
 ``` javascript
 global.baseUrl = "YOUR_BASE_URL";
 global.tokenKey = "YOUR_TOKEN_API";
